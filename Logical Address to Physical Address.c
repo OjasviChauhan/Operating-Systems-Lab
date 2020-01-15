@@ -30,7 +30,6 @@ int main()
               mm[i].start_add=i*s;
               fno[r]=i;
        }
-       
        printf("The Structure of Main Memory\n");
        printf("Frame\tPage\nNumber\tNumber\n------\t------\n");
        for(i=0; i < totPages; i++)
