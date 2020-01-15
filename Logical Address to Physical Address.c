@@ -36,7 +36,6 @@ int main()
        {
               printf("%d\t%d\n",i,mm[i].pn);
        }
-      
        printf("Enter The Logical Address\nPage Number : ");
        scanf("%d",&pno);
        printf("Offset : ");
